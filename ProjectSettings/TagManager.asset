@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: labyrinth walls
+    uniqueID: 3678528929
+    locked: 0
+  - name: Player
+    uniqueID: 3025123183
+    locked: 0
+  - name: UI
+    uniqueID: 399430183
     locked: 0
